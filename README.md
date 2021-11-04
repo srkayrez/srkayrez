@@ -1,4 +1,4 @@
-### Olá, eu sou o João Victor Caires! Atualmente sou Bacharel em Ciências da Computação<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
+### Olá, eu sou o João Victor Caires! Atualmente estou cursando Bacharelado em Ciências da Computação.<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
 📚 Atualmente estou no 3ª ano do bacharelado 📚<br>
 ☕ Cursando Java e POO na Udemy ☕<br>
 👶1998👶<br>
