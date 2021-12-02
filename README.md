@@ -1,5 +1,5 @@
 ### Olá, eu sou o João! Atualmente estou cursando Bacharelado em Ciências da Computação.<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
-📚 Atualmente estou no 3ª ano do bacharelado 📚<br>
+📚 Atualmente estou no 4ª ano do bacharelado 📚<br>
 ☕ Cursando Java e POO na Udemy ☕<br>
 👶1998👶<br>
 
@@ -30,6 +30,6 @@
 <img align="center" alt="Joao-html" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="Joao-css" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
--📚Ciências da Computação 6/8
+-📚Ciências da Computação 7/8
 
 
