@@ -1,6 +1,6 @@
 ### Olá, eu sou o João! Atualmente estou cursando Bacharelado em Ciências da Computação.<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
 📚 Atualmente estou no 4ª ano do bacharelado 📚<br>
-☕ Cursando Java e POO na Udemy ☕<br>
+☕ Cursando C# e POO na Udemy ☕<br>
 👶1998👶<br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-caires/)](https://www.linkedin.com/in/joao-victor-caires/) 
@@ -23,6 +23,8 @@
  <img src="https://seeklogo.com/images/A/adobe-premiere-logo-0B31ECF881-seeklogo.com.png" alt="premier" width="4%">
  <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="photoshop" width="4%">
  <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"alt="sketchup" width="4%">
+ <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"alt="C#" width="4%">
+  
  
 </p>
 <h3>Front-end:</h3>
