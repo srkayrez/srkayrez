@@ -12,7 +12,7 @@
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"alt="C#" width="4%">
-  <img src="  https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"alt="Azure" width="4%">
+  <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"alt="Azure" width="4%">
 
 </div>
 
