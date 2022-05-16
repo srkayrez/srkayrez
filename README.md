@@ -11,6 +11,8 @@
 <div style="display: inline_block">
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"alt="C#" width="4%">
+  <img src="  https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"alt="Azure" width="4%">
 
 </div>
 
@@ -23,7 +25,7 @@
  <img src="https://seeklogo.com/images/A/adobe-premiere-logo-0B31ECF881-seeklogo.com.png" alt="premier" width="4%">
  <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="photoshop" width="4%">
  <img src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"alt="sketchup" width="4%">
- <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"alt="C#" width="4%">
+
   
  
 </p>
