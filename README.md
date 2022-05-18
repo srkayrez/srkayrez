@@ -37,3 +37,4 @@
 -📚Ciências da Computação 7/8
 
 
+![](https://komarev.com/ghpvc/?username=srkayrez&style=plastic)
