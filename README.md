@@ -35,6 +35,6 @@
 <img align="center" alt="Joao-css" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 -📚Ciências da Computação 7/8
-
+/br
 
 ![](https://komarev.com/ghpvc/?username=srkayrez&style=plastic)
