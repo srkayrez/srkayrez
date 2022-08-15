@@ -20,10 +20,10 @@
 <h3>Plataformas:</h3>
 <p align="left">
   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" / width="4%">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="4%" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" / width="4%">
  <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" width="4%">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" / width="4%">       
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="4%" />       
  <img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png"alt="sublime" width="4%">
  <img src="https://seeklogo.com/images/A/adobe-premiere-logo-0B31ECF881-seeklogo.com.png" alt="premier" width="4%">
  <img src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png" alt="photoshop" width="4%">
