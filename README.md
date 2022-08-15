@@ -28,10 +28,7 @@
  
 </p>
 <h3>Front-end:</h3>
-<div>
-<img align="center" alt="Joao-html" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="Joao-css" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+
 -📚Ciências da Computação 7/8
 
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srkayrez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
