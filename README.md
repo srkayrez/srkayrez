@@ -34,6 +34,6 @@
 </div>
 -📚Ciências da Computação 7/8
  
-  
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srkayrez&layout=compact&langs_count=7&theme=github_dark"/>
 
 ![](https://komarev.com/ghpvc/?username=srkayrez&style=plastic)
