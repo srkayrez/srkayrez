@@ -1,6 +1,6 @@
 ### Olá, eu sou o João! Atualmente estou cursando Bacharelado em Ciências da Computação.<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
 📚 Atualmente estou no 4ª ano do bacharelado 📚<br>
-☕ Cursando C# e POO na Udemy ☕<br>
+☕ Estudando sobre Angular e Componentes ☕<br>
 👶1998👶<br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-caires/)](https://www.linkedin.com/in/joao-victor-caires/) 
@@ -53,3 +53,5 @@ Deploy <a href='https://srkayrez.github.io/contatos-entregadores/'>Aqui</a>
 
 
 ![](https://komarev.com/ghpvc/?username=srkayrez&style=plastic)
+
+Atualizado 17/05/2022
