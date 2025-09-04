@@ -54,4 +54,4 @@ Deploy <a href='https://srkayrez.github.io/contatos-entregadores/'>Aqui</a>
 
 ![](https://komarev.com/ghpvc/?username=srkayrez&style=plastic)
 
-Atualizado 17/05/2022
+Atualizado 8/05/2024
