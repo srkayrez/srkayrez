@@ -1,5 +1,5 @@
-### Olá, eu sou o João! Atualmente estou cursando Bacharelado em Ciências da Computação.<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
-📚 Atualmente estou no 4ª ano do bacharelado 📚<br>
+### Olá, eu sou o João! Bacharelado em Ciências da Computação.<img src="https://github.com/gjoioso/gjoioso/blob/main/Hi.gif" width="40px">
+📚 Bacharel em Ciencia da computação 📚<br>
 ☕ Estudando sobre Angular e Componentes ☕<br>
 👶1998👶<br>
 
